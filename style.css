@@ -1,0 +1,21 @@
+.bg-img1 {
+  width: 100%;
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mike-b-170811.jpg&fm=jpg&_gl=1*1fx1e9l*_ga*MTIzNjg0NTU1MS4xNjY4MjE2NTcy*_ga_8JE65Q40S6*MTY2ODIyMTY5MC4yLjEuMTY2ODIyMTY5OC4wLjAuMA..);
+}
+.bg-img2 {
+  width: 100%;
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.bg-img3 {
+  width: 100%;
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
